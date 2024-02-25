@@ -11,7 +11,8 @@ train_merged2.csv
 train_la&long.csv
 train_la&long.zip
 train_merged3.csv
-
+3y1y_apt_legacy.ipynb
+3y1y_apt_test.ipynb
 # C extensions
 *.so
 
