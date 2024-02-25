@@ -5,7 +5,11 @@ __pycache__/
 train.csv
 train2.csv
 .DS_Store
-
+__MACOSX/
+train_merged.csv
+train_merged2.csv
+train_la&long.csv
+train_la&long.zip
 # C extensions
 *.so
 
