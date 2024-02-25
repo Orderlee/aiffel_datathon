@@ -10,6 +10,8 @@ train_merged.csv
 train_merged2.csv
 train_la&long.csv
 train_la&long.zip
+train_merged3.csv
+
 # C extensions
 *.so
 
